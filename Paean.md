@@ -1,0 +1,537 @@
+# Paean of Satoshi
+
+TJ Murphy
+
+5/13/2023
+
+## Foreword:
+
+*Paean: a song of praise or triumph.*
+
+This work is dedicated to the honor of the historical Satoshi Nakamoto,
+whoever they may be. It aims to monumentalize, in brief, the phenomenon
+of Bitcoin's invention.
+
+The Paean's themes are of joy, despair, redemption, and achievement. It
+contributes to an organic modern mythology honoring the virtues embodied
+in Satoshi's work. It is presented in a style of
+magical-romantic-realism, without technical language.
+
+## Overview: 
+
+It begins with a young man awake to the beauty of the world. He falls
+into despair as he realizes he's been deceived into serving malevolent
+forces. He is rescued from the brink of self-destruction by a vision
+offering redemption through the path of virtue, honoring nature.
+
+Working with a woman who's an image of his vision, he and she integrate
+the fundamental concepts which enable the protocol and develop the
+technology in secret. Together they represent themselves to the wise
+warriors of the world as "Satoshi Nakamoto."
+
+Cloaked in anonymity, they birth the technology into the public.
+Recognizing that it must be leaderless if it is to succeed, they
+surrender their power over it and leave their treasure as a public
+monument for all who would follow to wonder at their motives.
+
+The story ends with wonder, just as it begins: wonder at the beauty of
+the natural world, wonder at the character of heroes who give power and
+fortune to humanity's benefit. The tone moves from innocence through the
+darkness of corruption and into the light of achievement.
+
+## Structure
+
+The Paean is twelve verses, each four stanzas of couplets with
+alternating end rhyme in iambic tetrameter. Aloud it spans about 12
+minutes, in 60-second verses. Coupled with images it would be
+well-suited for the highly constrained formats of social media. It could
+be expanded.
+
+The "Index" represents "verse.stanza.line" values. In the typography:
+plain text is the male voice, *Italics* the female, and **bold** is both
+together.
+
+Re-use and re-mixing is encouraged. If you've got better rhymes, let's
+hear them.
+
+  -----------------------------------------------------------------------
+  ***Index***       **Text**
+  ----------------- -----------------------------------------------------
+  *1.1.1*           The world is full of wonder
+
+  *1.1.2*           there\'s joy in all I see
+
+  *1.1.3*           I wonder what lies under
+
+  *1.1.4*           wild forces flowing free
+
+                    
+
+  *1.2.1*           through energy and patterns
+
+  *1.2.2*           nature lives and works
+
+  *1.2.3*           in language of mathematics
+
+  *1.2.4*           we can, with her, converse
+
+                    
+
+  *1.3.1*           Indistinguishable from magic
+
+  *1.3.2*           fruit of science and industry
+
+  *1.3.3*           transforms ourselves from tragic
+
+  *1.3.4*           to beacons of self-sovereignty
+
+                    
+
+  *1.4.1*           Though our tools are so mighty
+
+  *1.4.2*           still there\'s so much left to do
+
+  *1.4.3*           I will shape the world that might be
+
+  *1.4.4*           and build our strength anew
+
+                    
+
+  *2.1.1*           At last I\'m in position
+
+  *2.1.2*           to wield the hand of state
+
+  *2.1.3*           I\'m filled with my mission
+
+  *2.1.4*           to strike the forces of hate
+
+                    
+
+  *2.2.1*           But this is not what I expected
+
+  *2.2.2*           There's something wrong within
+
+  *2.2.3*           My goodwill feels rejected
+
+  *2.2.4*           I fear I serve a thing malign
+
+                    
+
+  *2.3.1*           If I can channel this power
+
+  *2.3.2*           perhaps I\'ll change its course
+
+  *2.3.3*           I\'ll turn the forces that devour
+
+  *2.3.4*           on themselves without remorse
+
+                    
+
+  *2.4.1*           Alas, its not working
+
+  *2.4.2*           the walls are closing in
+
+  *2.4.3*           the kraken\'s only smirking
+
+  *2.4.4*           benevolence can\'t even begin
+
+                    
+
+  *3.1.1*           The curtain is drawn back
+
+  *3.1.2*           I see what I\'ve become
+
+  *3.1.3*           a tool made for attack
+
+  *3.1.4*           to venom, I\'ve succumb
+
+                    
+
+  *3.2.1*           My works have born misery
+
+  *3.2.2*           even while I fought for good
+
+  *3.2.3*           I spread ill-will\'s hegemony
+
+  *3.2.4*           Cloaked in blithe falsehood
+
+                    
+
+  *3.3.1*           An instrument of evil
+
+  *3.3.2*           is what I seem to be
+
+  *3.3.3*           what I\'ve done to people
+
+  *3.3.4*           I am ashamed, of me
+
+                    
+
+  *3.4.1*           How could I have done this?
+
+  *3.4.2*           It seems there\'s no way out
+
+  *3.4.3*           Where shall I find release
+
+  *3.4.4*           In death, I\'m sure, no doubt
+
+                    
+
+  *4.1.1*           *My Child, you are mistaken*
+
+  *4.1.2*           *Your life doesn\'t have to end*
+
+  *4.1.3*           *For the lives your work has taken*
+
+  *4.1.4*           *You may yet make amends*
+
+                    
+
+  *4.2.1*           *My Son, don\'t take the easy way*
+
+  *4.2.2*           *I am not through with you*
+
+  *4.2.3*           *Though you have gone astray*
+
+  *4.2.4*           *you may yet be renewed*
+
+                    
+
+  *4.3.1*           *My Love, reclaim your will*
+
+  *4.3.2*           *Your work may yet redeem*
+
+  *4.3.3*           *You must use your precious skill*
+
+  *4.3.4*           *and invent the truth machine*
+
+                    
+
+  *4.4.1*           *Come away with me now*
+
+  *4.4.2*           *back to where we began*
+
+  *4.4.3*           *take my hand, I\'ll show how*
+
+  *4.4.4*           *from ashes, we may yet learn*
+
+                    
+
+  *5.1.1*           *Nature has no rulers*
+
+  *5.1.2*           *our only title is Peer*
+
+  *5.1.3*           *Seek not permissions*
+
+  *5.1.4*           *shine light without fear*
+
+                    
+
+  *5.2.1*           *Nature offers abundance*
+
+  *5.2.2*           *we must channel it for good*
+
+  *5.2.3*           *work in ongoing dance*
+
+  *5.2.4*           *transform our seeds to food*
+
+                    
+
+  *5.3.1*           *Life is beloved of nature*
+
+  *5.3.2*           *and it has but one goal*
+
+  *5.3.3*           *by replication, it is sure*
+
+  *5.3.4*           *to find its niche and role*
+
+                    
+
+  *5.4.1*           *structure rises from the void*
+
+  *5.4.2*           *built on simple interactions*
+
+  *5.4.3*           *matter is thus deployed*
+
+  *5.4.4*           *and complexity emerges*
+
+                    
+
+  *6.1.1*           *Remember my words*
+
+  *6.1.2*           *through action, earn trust*
+
+  *6.1.3*           *Seek me through the worlds*
+
+  *6.1.4*           *Find the way you feared lost*
+
+                    
+
+  *6.2.1*           Can it be that I\'m still alive?
+
+  *6.2.2*           No, I\'ve died, and am reborn
+
+  *6.2.3*           A new bearing for which to strive
+
+  *6.2.4*           my old ways shall be forlorn
+
+                    
+
+  *6.3.1*           She spoke to me of nature
+
+  *6.3.2*           as maiden, mother, and crone
+
+  *6.3.3*           now I\'m resolved to serve her
+
+  *6.3.4*           with flesh, and blood, and bone
+
+                    
+
+  *6.4.1*           But first I must find her
+
+  *6.4.2*           and understand what she said
+
+  *6.4.3*           \"Truth machine?\" I wonder
+
+  *6.4.4*           how to thank her I\'m not dead
+
+                    
+
+  *7.1.1*           While the city is so vast
+
+  *7.1.2*           its a tiny part of the planet
+
+  *7.1.3*           if I searched ever so fast
+
+  *7.1.4*           Hope to succeed? I cannot
+
+                    
+
+  *7.2.1*           Yet I must, and I will
+
+  *7.2.2*           the mission gives me life
+
+  *7.2.3*           Though I suffer until
+
+  *7.2.4*           the world's free of strife
+
+                    
+
+  *7.3.1*           Ahead now, a vision?
+
+  *7.3.2*           bright spark in the ashes
+
+  *7.3.3*           she ignites in me a frisson
+
+  *7.3.4*           as for herself she dances
+
+                    
+
+  *7.4.1*           As I\'m watching she nears
+
+  *7.4.2*           *\"Yes?\"* I\'m self conscious
+
+  *7.4.3*           Her voice holds no fears
+
+  *7.4.4*           assured and courteous
+
+                    
+
+  *8.1.1*           Speak with me a moment?
+
+  *8.1.2*           I think you\'ll understand
+
+  *8.1.3*           this consuming thought
+
+  *8.1.4*           burning in my head
+
+                    
+
+  *8.2.1*           I propose to create a tool
+
+  *8.2.2*           That records for all to see
+
+  *8.2.3*           Agreements made and sealed
+
+  *8.2.4*           attestable, indefinitely
+
+                    
+
+  *8.3.1*           It should be, for all, accessible
+
+  *8.3.2*           It should testify to identity
+
+  *8.3.3*           It should be incorruptible
+
+  *8.3.4*           For truth is spoken irreversibly
+
+                    
+
+  *8.4.1*           With it we will prosper
+
+  *8.4.2*           In peace and camaraderie
+
+  *8.4.3*           Each one free to discover
+
+  *8.4.4*           our way to serve, mutually
+
+                    
+
+  *9.1.1*           But there are many problems
+
+  *9.1.2*           For each virtue, there\'s a vice
+
+  *9.1.3*           To have each of these properties
+
+  *9.1.4*           There seems an untenable price
+
+                    
+
+  *9.2.1*           *What if it lives in the ether?*
+
+  *9.2.2*           *What if its stories are very short?*
+
+  *9.2.3*           *What if it knows only fingerprints*
+
+  *9.2.4*           *Of the truths that we assert?*
+
+                    
+
+  *9.3.1*           *Let our witness stand alone*
+
+  *9.3.2*           *Let our word support itself*
+
+  *9.3.3*           *Let strands of truth be grown*
+
+  *9.3.4*           *Genesis rooted in our life*
+
+                    
+
+  *9.4.1*           *Reflect upon truths gone by*
+
+  *9.4.2*           *Build our present upon our past*
+
+  *9.4.3*           *Shout the future from on high*
+
+  *9.4.4*           *Thus make truths that last*
+
+                    
+
+  *10.1.1*          Last problem is me
+
+  *10.1.2*          My time\'s not my own
+
+  *10.1.3*          *Trust, my love, I\'ll be*
+
+  *10.1.4*          *voice of what we\'ve grown*
+
+                    
+
+  *10.2.1*          Cloaked in mathematics
+
+  *10.2.2*          *let us speak with the wise*
+
+  *10.2.3*          Ask for critiques
+
+  *10.2.4*          *On what this implies*
+
+                    
+
+  *10.3.1*          *Now we build our tools*
+
+  *10.3.2*          Staff, shield, and cloak
+
+  *10.3.3*          *kept secret from fools*
+
+  *10.3.4*          work safe in the dark
+
+                    
+
+  *10.4.1*          *Together we rally*
+
+  *10.4.2*          *from dark we bring light*
+
+  *10.4.3*          triumph over the valley
+
+  *10.4.4*          dawn from the night
+
+                    
+
+  *11.1.1*          **We can reshape our worlds**
+
+  *11.1.2*          **holding this much power**
+
+  *11.1.3*          **while yet Power corrupts**
+
+  *11.1.4*          **we\'ve no wish to cower**
+
+                    
+
+  *11.2.1*          **If we want it to live**
+
+  *11.2.2*          **we must set it free**
+
+  *11.2.3*          **its got all we can give**
+
+  *11.2.4*          **From afar we will see**
+
+                    
+
+  *11.3.1*          **Our friends of good will**
+
+  *11.3.2*          **must take up the banner**
+
+  *11.3.3*          **we leave beacon on hill**
+
+  *11.3.4*          **in monumental manner**
+
+                    
+
+  *11.4.1*          **We\'ll be just off stage**
+
+  *11.4.2*          **Cheering the fight**
+
+  *11.4.3*          **we\'ll rattle the cage**
+
+  *11.4.4*          **and savor our sight**
+
+                    
+
+  *12.1.1*          **Light slowly takes hold**
+
+  *12.1.2*          **Darkness suddenly spent**
+
+  *12.1.3*          **much remains to unfold**
+
+  *12.1.4*          **Lest reemerge the blight**
+
+                    
+
+  *12.2.1*          **The work of the wise**
+
+  *12.2.2*          **ever and always ongoing**
+
+  *12.2.3*          **Face travail with poise**
+
+  *12.2.4*          **grow in your knowing**
+
+                    
+
+  *12.3.1*          **Shed your own shackles**
+
+  *12.3.2*          **We offer an answer**
+
+  *12.3.3*          **Ignore all the jackals**
+
+  *12.3.4*          **Take up the banner**
+
+                    
+
+  *12.4.1*          **Be Satoshi: Be light,**
+
+  *12.4.2*          **be change, be bold**
+
+  *12.4.3*          **For Satoshi lives the spirit**
+
+  *12.4.4*          **Of we who have dared**
+  -----------------------------------------------------------------------
