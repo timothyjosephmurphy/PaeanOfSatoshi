@@ -1,6 +1,7 @@
 # Paean of Satoshi
 
 TJ Murphy
+TimothyJosephMurphy@gmail.com
 
 5/13/2023
 
@@ -51,8 +52,7 @@ The "Index" represents "verse.stanza.line" values. In the typography:
 plain text is the male voice, *Italics* the female, and **bold** is both
 together.
 
-Re-use and re-mixing is encouraged. If you've got better rhymes, let's
-hear them.
+Re-use and re-mixing is encouraged. If you've got better rhymes: submit a pull request, or email me.
 
   -----------------------------------------------------------------------
   ***Index***       **Text**
