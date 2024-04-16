@@ -1,7 +1,10 @@
 ## Readme
 Title: Paean of Satoshi
+
 Author: TJ Murphy
+
 Date: 3/26/2024
+
 Purpose: describe the useage of the github repository https://github.com/timothyjosephmurphy/PaeanOfSatoshi
 
 This is an open-source mythology monumentalizing the origin of Satoshi Nakamoto. 
